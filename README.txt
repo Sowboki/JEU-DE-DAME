@@ -17,5 +17,5 @@ Ce jeu de dames est une implémentation classique du jeu de stratégie pour deux
 - Cliquez sur une case pour sélectionner un pion, puis cliquez sur une case de destination pour le déplacer.
 - Suivez les règles de déplacement et de capture.
 
-#NB:Problèmes Techniques
+## Problèmes Techniques
 J'ai rencontré un problème concernant l'interaction avec le plateau de jeu. Malgré tous mes efforts, les pions refusent de se déplacer. De plus, les couleurs censées indiquer la position actuelle des pions et leur chemin de déplacement possible ne changent pas, malgré mes tentatives de modification dans le code. Ce problème pourrait être dû à des erreurs dans la gestion des événements ou dans la mise à jour de l'affichage du plateau. Toute aide ou suggestion pour résoudre ces problèmes serait grandement appréciée
